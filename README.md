@@ -63,9 +63,9 @@ If you’d like a walkthrough of the architecture or implementation, feel free t
 
 **Tarun Gaur**
 
-- 🌐 Portfolio: (https://tarun11.in)
-- 💼 LinkedIn: (https://www.linkedin.com/in/tarungaur11/)
-- 📧 Email: (tarun11.xyz@gmail.com)
+- 🌐 Portfolio: [tarun11.in](https://tarun11.in)
+- 💼 LinkedIn: [Link](https://www.linkedin.com/in/tarungaur11/)
+- 📧 Email: tarun11.xyz@gmail.com
 
 ---
 
