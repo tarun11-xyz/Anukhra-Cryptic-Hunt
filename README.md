@@ -18,6 +18,7 @@ An interactive web-based puzzle experience where users decode hidden clues acros
 
 - 🔍 Multi-format puzzles (Text, Images, Audio, QR Codes)
 - 🔓 Progressive unlocking system
+- 👥 Team System
 - 🧠 Logic & pattern-based challenges
 - 🌐 Single-page seamless experience
 - ⚡ Fast and responsive UI
@@ -41,6 +42,23 @@ An interactive web-based puzzle experience where users decode hidden clues acros
 4. Difficulty increases progressively
 5. Multiple thinking styles are required (logic, observation, decoding)
 
+---
+## 👥 Team System
+
+ANUKHRA includes a real-time collaborative team feature designed for shared problem-solving and competitive gameplay.
+
+- 🔐 **Team Creation & Joining**  
+  Players can create teams with a unique 6-character join code. New members require leader approval, with a max team size of 4.
+
+- 🧠 **Shared Progression**  
+  Any correct answer by a teammate advances the entire team. Progress, stages, and scores sync instantly across all members — even if they are offline.
+
+- ⚖️ **Strict Fairness Rules**  
+  Leaving or being removed from a team resets a player’s progress to zero, preventing score exploitation. If the leader exits, the team is disbanded.
+
+- 🏆 **Dynamic Leaderboard**  
+  Team members share identical scores, and leaderboard rankings update in real-time based on team performance.
+  
 ---
 
 ## 🛠️ Tech Stack
