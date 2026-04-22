@@ -1,6 +1,6 @@
 # 🔐 ANUKHRA: Cryptic Hunt
 
-An interactive web-based puzzle experience where users decode hidden clues across multiple formats — including text, images, audio, and QR codes.
+An interactive web-based puzzle experience where users decode hidden clues across multiple formats — including cipher text, images, audio, and QR codes.
 
 > This isn’t just a quiz. It’s a layered challenge where each answer unlocks the next.
 
@@ -16,7 +16,7 @@ An interactive web-based puzzle experience where users decode hidden clues acros
 
 ## 🧩 Features
 
-- 🔍 Multi-format puzzles (Text, Images, Audio, QR Codes)
+- 🔍 Multi-format puzzles (cipher Text, Images, Audio, QR Codes)
 - 🔓 Progressive unlocking system
 - 👥 Team System
 - 🧠 Logic & pattern-based challenges
