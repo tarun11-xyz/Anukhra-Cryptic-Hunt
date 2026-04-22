@@ -1,4 +1,4 @@
-# 🔐 ANUKHRA: The Cryptic Hunt
+# 🔐 ANUKHRA: Cryptic Hunt
 
 An interactive web-based puzzle experience where users decode hidden clues across multiple formats — including text, images, audio, and QR codes.
 
