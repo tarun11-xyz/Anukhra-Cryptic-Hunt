@@ -6,8 +6,8 @@ An interactive web-based puzzle experience where users decode hidden clues acros
 
 ---
 
-## 🌐 Live Demo
-🔗 https://anukhra.tarun11.in  
+## 🌐 Live Website
+🔗 https://anukhra.xyz  
 *(Best experienced on desktop)*
 
 ![Home](https://tarun11.in/assets/anukhraui.png)
